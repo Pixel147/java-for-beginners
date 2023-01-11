@@ -1,4 +1,12 @@
 # java-for-beginners
+## Встановлення IDE
+<p>Я користуюсь IntelliJ IDEA і в подальшому тести будуть написані в ньому</p>
+<p>IntelliJ IDEA https://metanit.com/java/tutorial/1.5.php</p>
+<p>NetBeans https://metanit.com/java/tutorial/1.3.php</p>
+<p>Eclipse https://metanit.com/java/tutorial/1.4.php</p>
+
+<br/>
+
 ## Цей короткий курс по джаві поділяється на
 1. Теорія з [Metanit.com](https://metanit.com/java/tutorial/)
 2. Короткий опис
