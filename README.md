@@ -12,7 +12,23 @@
 2. Короткий опис
 3. Декілька завдань(до деяких тем немає завдань :) )
 
-
+### Як перевіряти завдання
+<p>
+Зараз я зробив тільки тести від теми методи<br/>
+Щоб запустити тести вам потрібно скачати папку java-for-beginners-test<br/>
+Відкрити її через Intelij IDEA<br/>
+В проекті буде папка src в якій є папки main та test<br/>
+В папці main/java є завдання до тем:<br/><br/>
+1. Методи <br/>
+Завдання писати в main/java/blockMethods<br/>
+Перевіряти через тести в test/java/blockMethodsTest<br/><br/>
+2. Перегрузка методів<br/>
+Завдання писати в main/java/blockOverloadMethods<br/>
+Перевіряти через тести в test/java/blockOverloadMethodsTest<br/><br/>
+3. Рекурсивні методи<br/>
+Завдання писати в main/java/blockRecursiveMethods<br/>
+Перевіряти через тести в test/java/blockRecursiveMethodsTest<br/><br/>
+</p>
 
 
 <br/><br/><br/>
